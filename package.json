@@ -1,0 +1,39 @@
+{
+  "name": "discord-vouch-bot",
+  "version": "2.0.0",
+  "description": "Bot Discord moderne et complet pour la gestion des vouches (avis/testimonials) avec système de notation, statistiques avancées et classements",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "vouch",
+    "reviews",
+    "testimonials",
+    "rating",
+    "discord-bot",
+    "discord.js",
+    "slash-commands"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/votre-username/discord-vouch-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/votre-username/discord-vouch-bot/issues"
+  },
+  "homepage": "https://github.com/votre-username/discord-vouch-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
