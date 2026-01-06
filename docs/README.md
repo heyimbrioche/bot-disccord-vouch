@@ -26,7 +26,7 @@ Toutes les commandes sont documentées dans le README principal. Utilisez `/help
 
 Si vous trouvez un bug ou avez une suggestion :
 
-1. Vérifiez les [Issues existantes](https://github.com/votre-username/discord-vouch-bot/issues)
+1. Vérifiez les [Issues existantes](https://github.com/heyimbrioche/bot-disccord-vouch/issues)
 2. Créez une nouvelle issue avec le template approprié
 3. Fournissez autant de détails que possible
 

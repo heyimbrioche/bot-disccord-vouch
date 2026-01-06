@@ -8,7 +8,7 @@ Merci de votre intérêt pour contribuer à Discord Vouch Bot ! Ce document four
 
 Si vous trouvez un bug :
 
-1. Vérifiez que le bug n'a pas déjà été signalé dans les [Issues](https://github.com/votre-username/discord-vouch-bot/issues)
+1. Vérifiez que le bug n'a pas déjà été signalé dans les [Issues](https://github.com/heyimbrioche/bot-disccord-vouch/issues)
 2. Si ce n'est pas le cas, créez une nouvelle issue avec :
    - Une description claire du bug
    - Les étapes pour reproduire le problème
@@ -28,7 +28,7 @@ Si vous trouvez un bug :
 1. **Fork** le projet
 2. **Clone** votre fork :
    ```bash
-   git clone https://github.com/votre-username/discord-vouch-bot.git
+   git clone https://github.com/heyimbrioche/bot-disccord-vouch.git
    cd discord-vouch-bot
    ```
 3. **Créez une branche** pour votre fonctionnalité :

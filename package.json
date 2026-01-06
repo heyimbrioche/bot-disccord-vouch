@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/votre-username/discord-vouch-bot.git"
+    "url": "https://github.com/heyimbrioche/bot-disccord-vouch.git"
   },
   "bugs": {
-    "url": "https://github.com/votre-username/discord-vouch-bot/issues"
+    "url": "https://github.com/heyimbrioche/bot-disccord-vouch/issues"
   },
-  "homepage": "https://github.com/votre-username/discord-vouch-bot#readme",
+  "homepage": "https://github.com/heyimbrioche/bot-disccord-vouch#readme",
   "dependencies": {
     "discord.js": "^14.14.1",
     "dotenv": "^16.3.1"

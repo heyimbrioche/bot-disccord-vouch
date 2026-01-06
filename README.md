@@ -49,8 +49,8 @@ Un bot Discord moderne et complet pour la gestion des vouches (avis/testimonials
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-username/discord-vouch-bot.git
-cd discord-vouch-bot
+git clone https://github.com/heyimbrioche/bot-disccord-vouch.git
+cd bot-disccord-vouch
 ```
 
 Ou téléchargez le projet et extrayez-le dans un dossier.
@@ -250,8 +250,8 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 📞 Support
 
-- 🐛 **Signaler un bug** : [Ouvrir une issue](https://github.com/votre-username/discord-vouch-bot/issues)
-- 💡 **Suggérer une fonctionnalité** : [Ouvrir une issue](https://github.com/votre-username/discord-vouch-bot/issues)
+- 🐛 **Signaler un bug** : [Ouvrir une issue](https://github.com/heyimbrioche/bot-disccord-vouch/issues)
+- 💡 **Suggérer une fonctionnalité** : [Ouvrir une issue](https://github.com/heyimbrioche/bot-disccord-vouch/issues)
 - 📖 **Documentation complète** : Voir le dossier [docs/](docs/)
 - 🚀 **Démarrage rapide** : Voir [QUICKSTART.md](QUICKSTART.md)
 
