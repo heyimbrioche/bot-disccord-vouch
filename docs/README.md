@@ -34,3 +34,9 @@ Si vous trouvez un bug ou avez une suggestion :
 
 Voir [CONTRIBUTING.md](../CONTRIBUTING.md) pour les directives complètes sur la contribution au projet.
 
+## 💬 Contact
+
+Pour des problèmes spéciaux, des questions urgentes ou des contributions directes, vous pouvez contacter le créateur sur Discord :
+
+**Discord** : `dialogue_._56197`
+

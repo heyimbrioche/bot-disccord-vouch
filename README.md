@@ -255,6 +255,14 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - 📖 **Documentation complète** : Voir le dossier [docs/](docs/)
 - 🚀 **Démarrage rapide** : Voir [QUICKSTART.md](QUICKSTART.md)
 
+### 💬 Contact direct
+
+Pour des problèmes spéciaux, des questions urgentes ou si vous souhaitez contribuer directement au projet, vous pouvez contacter le créateur sur Discord :
+
+**Discord** : `dialogue_._56197`
+
+> 💡 **Note** : Pour les bugs et suggestions de fonctionnalités, privilégiez les [Issues GitHub](https://github.com/heyimbrioche/bot-disccord-vouch/issues) afin que la communauté puisse en bénéficier.
+
 ## 📚 Documentation
 
 - [README.md](README.md) - Ce fichier (documentation principale)

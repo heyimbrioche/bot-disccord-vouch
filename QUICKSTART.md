@@ -92,3 +92,7 @@ Le bot est maintenant configuré et prêt à être utilisé. Les utilisateurs av
 - **Erreurs de permissions** : Vérifiez que le bot a les permissions nécessaires
 
 Pour plus d'aide, consultez le [README.md](README.md) complet.
+
+### 💬 Besoin d'aide supplémentaire ?
+
+Si vous rencontrez un problème spécial ou avez besoin d'aide directe, vous pouvez contacter le créateur sur Discord : `dialogue_._56197`

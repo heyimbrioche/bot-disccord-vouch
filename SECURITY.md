@@ -6,9 +6,11 @@ Si vous découvrez une vulnérabilité de sécurité, **ne créez pas d'issue pu
 
 ### Comment signaler
 
-1. Envoyez un email à [votre-email@example.com] OU
-2. Créez une issue privée sur GitHub (si disponible) OU
-3. Contactez directement les mainteneurs
+1. Contactez directement le créateur sur Discord : `dialogue_._56197` (recommandé pour les vulnérabilités critiques) OU
+2. Envoyez un email à [votre-email@example.com] OU
+3. Créez une issue privée sur GitHub (si disponible)
+
+> ⚠️ **Important** : Pour les vulnérabilités de sécurité critiques, contactez directement sur Discord pour une réponse plus rapide.
 
 ### Ce qu'il faut inclure
 

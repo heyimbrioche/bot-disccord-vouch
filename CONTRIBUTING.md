@@ -105,6 +105,14 @@ Si vous avez des questions, n'hésitez pas à :
 - Ouvrir une issue avec le label "question"
 - Contacter les mainteneurs du projet
 
+### 💬 Contact direct
+
+Pour des contributions directes, des questions urgentes ou des problèmes spéciaux, vous pouvez contacter le créateur directement sur Discord :
+
+**Discord** : `dialogue_._56197`
+
+> 💡 **Note** : Pour les contributions importantes, nous recommandons toujours d'utiliser le processus de Pull Request standard pour maintenir la traçabilité et permettre les discussions publiques.
+
 ## 🙏 Merci !
 
 Votre contribution est appréciée ! Merci de prendre le temps d'améliorer ce projet.
