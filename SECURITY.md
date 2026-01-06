@@ -7,7 +7,7 @@ Si vous découvrez une vulnérabilité de sécurité, **ne créez pas d'issue pu
 ### Comment signaler
 
 1. Contactez directement le créateur sur Discord : `dialogue_._56197` (recommandé pour les vulnérabilités critiques) OU
-2. Envoyez un email à [votre-email@example.com] OU
+2. Envoyez un email à [heyimbrioche@duck.com] OU
 3. Créez une issue privée sur GitHub (si disponible)
 
 > ⚠️ **Important** : Pour les vulnérabilités de sécurité critiques, contactez directement sur Discord pour une réponse plus rapide.
@@ -77,5 +77,5 @@ Si vous pensez que votre bot a été compromis :
 
 ## 📞 Contact
 
-Pour toute question de sécurité, contactez : [votre-email@example.com]
+Pour toute question de sécurité, contactez : [heyimbrioche@duck.com]
 
